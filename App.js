@@ -27,5 +27,5 @@ app.get("/", (req, res) => {
 
 
 app.listen(PORT, (req, res) => {
-  console.log("run PORT 8990");
+  console.log("run PORT 3000");
 });
