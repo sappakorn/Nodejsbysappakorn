@@ -22,7 +22,7 @@
     "restarttable": "rs",
     "delay": 2000,
     "env": {
-      "PORT": 8990
+      "PORT": 3000
     }
   }
 }
