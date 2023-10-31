@@ -21,7 +21,7 @@ app.use("/products",productsRouter);
 //static 
 app.get("/", (req, res) => {
   res.render("index", {
-    username: "eiei",
+    username: "Hello node.js",
   });
 });
 
